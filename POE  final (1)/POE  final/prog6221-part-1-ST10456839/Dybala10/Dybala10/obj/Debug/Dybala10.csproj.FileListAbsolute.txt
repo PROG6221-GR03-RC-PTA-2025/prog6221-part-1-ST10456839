@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Dybala10\Dybala10\obj\Debug\Dybala10.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Dybala10\Dybala10\obj\Debug\Dybala10.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Dybala10\Dybala10\bin\Debug\Dybala10.exe.config
+C:\Users\admin\source\repos\Dybala10\Dybala10\bin\Debug\Dybala10.exe
+C:\Users\admin\source\repos\Dybala10\Dybala10\bin\Debug\Dybala10.pdb
+C:\Users\admin\source\repos\Dybala10\Dybala10\obj\Debug\Dybala10.exe
+C:\Users\admin\source\repos\Dybala10\Dybala10\obj\Debug\Dybala10.pdb
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\bin\Debug\Dybala10.exe.config
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\bin\Debug\Dybala10.exe
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\bin\Debug\Dybala10.pdb
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\obj\Debug\Dybala10.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\obj\Debug\Dybala10.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\obj\Debug\Dybala10.exe
+C:\Users\admin\source\repos\POE  final\prog6221-part-1-ST10456839\Dybala10\Dybala10\obj\Debug\Dybala10.pdb
